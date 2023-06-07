@@ -1,0 +1,1 @@
+{"name":"Local: 158A","url":"/home/hoang/git/Codeforces-Problems/800/158A.cpp","tests":[{"id":1686088416022,"input":"8 5\n10 9 8 7 7 7 5 5","output":"6"},{"id":1686089330483,"input":"4 2\n0 0 0 0","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hoang/git/Codeforces-Problems/800/158A.cpp","group":"local","local":true}
