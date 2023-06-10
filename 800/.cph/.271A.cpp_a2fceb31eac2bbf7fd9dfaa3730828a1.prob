@@ -1,0 +1,1 @@
+{"name":"Local: 271A","url":"/home/hoang/git/Codeforces-Problems/800/271A.cpp","tests":[{"id":1686384101498,"input":"1987\n","output":"2013\n"},{"id":1686384106860,"input":"2013\n","output":"2014\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hoang/git/Codeforces-Problems/800/271A.cpp","group":"local","local":true}
