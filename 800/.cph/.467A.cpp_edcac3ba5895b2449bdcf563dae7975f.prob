@@ -1,0 +1,1 @@
+{"name":"Local: 467A","url":"/home/hoang/git/Codeforces-Problems/800/467A.cpp","tests":[{"id":1686427053753,"input":"3\n1 1\n2 2\n3 3\n","output":"0\n"},{"id":1686427057210,"input":"3\n1 10\n0 10\n10 10\n","output":"2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hoang/git/Codeforces-Problems/800/467A.cpp","group":"local","local":true}
