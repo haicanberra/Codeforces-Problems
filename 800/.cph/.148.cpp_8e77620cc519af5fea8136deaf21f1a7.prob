@@ -1,1 +1,0 @@
-{"name":"Local: 148","url":"/home/hoang/git/Codeforces-Problems/800/148.cpp","tests":[{"id":1686633238070,"input":"1\n2\n3\n4\n12\n","output":"12\n"},{"id":1686633261854,"input":"2\n3\n4\n5\n24\n","output":"17\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hoang/git/Codeforces-Problems/800/148.cpp","group":"local","local":true}
