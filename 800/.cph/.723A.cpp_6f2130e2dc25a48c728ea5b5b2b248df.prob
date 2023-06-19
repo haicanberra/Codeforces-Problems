@@ -1,0 +1,1 @@
+{"name":"Local: 723A","url":"/home/hoang/git/Codeforces-Problems/800/723A.cpp","tests":[{"id":1687124802839,"input":"7 1 4\n","output":"6\n"},{"id":1687124806903,"input":"30 20 10\n","output":"20\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hoang/git/Codeforces-Problems/800/723A.cpp","group":"local","local":true}
