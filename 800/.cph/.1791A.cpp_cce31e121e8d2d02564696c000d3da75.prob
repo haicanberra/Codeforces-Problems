@@ -1,0 +1,1 @@
+{"name":"Local: 1791A","url":"/home/hoang/git/Codeforces-Problems/800/1791A.cpp","tests":[{"id":1687500614031,"input":"10\na\nb\nc\nd\ne\nf\ng\nh\ni\nj\n","output":"NO\nNO\nYES\nYES\nYES\nYES\nNO\nNO\nNO\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hoang/git/Codeforces-Problems/800/1791A.cpp","group":"local","local":true}
