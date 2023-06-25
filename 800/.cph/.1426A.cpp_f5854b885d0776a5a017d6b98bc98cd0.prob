@@ -1,0 +1,1 @@
+{"name":"Local: 1426A","url":"/home/hoang/git/Codeforces-Problems/800/1426A.cpp","tests":[{"id":1687645507689,"input":"6\n3 6\n1 5\n22 5\n987 13\n1 3\n3 6\n","output":"2\n1\n5\n77\n1\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hoang/git/Codeforces-Problems/800/1426A.cpp","group":"local","local":true}
