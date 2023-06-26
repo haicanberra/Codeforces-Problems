@@ -2,23 +2,42 @@
 #include <string>
 using namespace std;
 
+int check(string n)
+{
+    for (char c : n)
+    {
+        if (c != '4' && c != '7')
+        {
+            return 0;
+        }
+    }
+    return 1;
+}
+
 int main()
 {
     string n;
     cin >> n;
 
-    bool unluck = false;
-    for (char c : n)
+    if (check(n) == 0)
     {
-        if (c != '4' && c != '7')
+        for (int i = 0; i < stoi(n); i++)
         {
-            unluck = true;
-            break;
+            if (check(to_string(i)) == 1)
+            {
+                if (stoi(n) % i == 0)
+                {
+                    cout << "YES";
+                    return 0;
+                }
+            }
         }
     }
-    if (unluck) {
-        
+    else
+    {
+        cout << "YES";
+        return 0;
     }
-    cout << "YES";
+    cout << "NO";
     return 0;
 }
