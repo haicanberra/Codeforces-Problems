@@ -1,0 +1,1 @@
+{"name":"Local: 339B","url":"/home/hoang/git/Codeforces-Problems/1000/339B.cpp","tests":[{"id":1687853284770,"input":"4 3\n3 2 3\n","output":"6\n\n"},{"id":1687853455083,"input":"4 3\n2 3 3\n","output":"2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/hoang/git/Codeforces-Problems/1000/339B.cpp","group":"local","local":true}
