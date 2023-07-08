@@ -1,0 +1,1 @@
+{"name":"Local: 766A","url":"/home/skald/git/Codeforces-Problems/1000/766A.cpp","tests":[{"id":1688687888019,"input":"a\na","output":"-1"},{"id":1688687893847,"input":"abcd\ndefgh\n","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/skald/git/Codeforces-Problems/1000/766A.cpp","group":"local","local":true}
